@@ -1,0 +1,18 @@
+.top-body {
+	background: url("https://image.noelshack.com/fichiers/2018/45/7/1541940505-image0.jpg") no-repeat fixed;
+	color: white;
+	text-align: center;
+}
+
+.hr-white {
+	border-top: 1px solid white;
+	width: 250px;
+}
+
+.container {
+	text-align: center;
+}
+
+.dropdown-item:hover {
+	background: #3f51b5;
+}
